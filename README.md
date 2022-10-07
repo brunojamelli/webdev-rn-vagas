@@ -1,16 +1,16 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 <p align="center">
-  <img src="https://avatars3.githubusercontent.com/u/30732658?v=4&s=200.jpg" alt="BackEndBR" width="230" />
+  <img src="doc/images/Brasão_do_Rio_Grande_do_Norte.svg" alt="BackEndBR" width="230"/>
 </p>
 
 # Vagas
 
-Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.
+Espaço para a divulgação de vagas para desenvolvedores do Rio Grande do norte via issues do Github.
 
 ## Como cadastrar uma vaga?
 
-Abra uma [issue](https://github.com/backend-br/vagas/issues), e preencha os dados seguindo o modelo padrão gerado
+Abra uma [issue](https://github.com/brunojamelli/webdev-rn-vagas/issues), e preencha os dados seguindo o modelo padrão gerado
 pela issue.
 
 Adicionalmente, informe quais labels devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
@@ -70,5 +70,5 @@ Siga as [diretrizes de contribuição](CONTRIBUTING.md) para contribuir com o pr
 
 ## Agradecimento
 
-Agradecemos a comunidade [Front-end Brasil](https://github.com/frontendbr) que nos inspirou, e essa página é um fork
+Agradecemos a comunidade [backend Brasil](https://github.com/backend-br/) que nos inspirou, e essa página é um fork
 deles.
